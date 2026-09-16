@@ -4,4 +4,4 @@
 
 My Project:
 
-[AI Music Sass]: [musictool.tool](https://musictool.tools/)
+🎵 AI Music: https://musictool.tools
